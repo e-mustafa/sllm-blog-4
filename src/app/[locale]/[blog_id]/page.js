@@ -14,12 +14,12 @@ async function getData(id) {
 
 
 export async function generateMetadata({ params: { locale, blog_id } }) {
-	const t = await getTranslations({ locale, namespace: 'Metadata' });
+	const t = await getTranslations({ locale});
 	
 	const article = await getData(blog_id);
 	return {
 		title: t(article?.title?.[locale]) || '',
-		content: t(article?.content?.[locale]) || '',
+		description: t(article?.content?.[locale]) || '',
 	};
 }
 

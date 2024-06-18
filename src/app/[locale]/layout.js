@@ -1,4 +1,3 @@
-
 import Footer from '@/Components/Footer';
 import Header from '@/Components/Header/Header';
 import MainSection from '@/Components/Header/MainSection';
@@ -8,6 +7,7 @@ import './globals.css';
 import { Suspense } from 'react';
 import LoadingComponent from '@/Components/Global/LoadingComponent';
 import Providers from '@/Context/providers';
+import Head from 'next/head';
 
 export default async function LocaleLayout({ children, params: { locale } }) {
 	// Providing all messages to the client
@@ -16,6 +16,9 @@ export default async function LocaleLayout({ children, params: { locale } }) {
 
 	return (
 		<html lang={locale}>
+			<Head>
+				<link rel="icon" href="/favicon.ico" />
+			</Head>
 			<body dir={locale == 'ar' ? 'rtl' : 'ltr'}>
 				<NextIntlClientProvider messages={messages}>
 					<Providers>
