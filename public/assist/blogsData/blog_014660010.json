@@ -1,0 +1,22 @@
+{
+		"_id": "014660010",
+		"image": "/assist/images/blog-1.jpg",
+		"title": {
+			"ar": "أناقة وجمال: كيف تختار طاولة الزينة المثالية",
+			"en": "Elegance and Beauty: How to Choose the Perfect Dressing Table"
+		},
+		"content": {
+			"ar": "طاولة الزينة تضيف لمسة من الأناقة والجمال إلى غرفة النوم، يجب أن تكون عملية وتحتوي على مساحات تخزين كافية لتلبية احتياجاتك.",
+			"en": "A dressing table adds a touch of elegance and beauty to the bedroom. It should be practical and have enough storage spaces to meet your needs."
+		},
+		"date": "2024-06-24",
+		"tags": {
+			"ar": ["طاولة زينة", "أثاث", "غرفة نوم"],
+			"en": ["Dressing Table", "Furniture", "Bedroom"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 9
+	}

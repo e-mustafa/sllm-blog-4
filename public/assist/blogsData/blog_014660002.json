@@ -1,0 +1,22 @@
+{
+	"_id": "014660002",
+	"image": "/assist/images/blog-2.jpg",
+	"title": {
+		"ar": "جمال وأناقة: اختيار طاولة الطعام المثالية",
+		"en": "Beauty and Elegance: Choosing the Perfect Dining Table"
+	},
+	"content": {
+		"ar": "طاولة الطعام هي مكان تجمع العائلة والأصدقاء، لذا يجب أن تكون أنيقة ومتينة لتدوم طويلاً وتضيف لمسة جمال إلى منزلك.",
+		"en": "The dining table is a gathering place for family and friends, so it should be elegant and durable to last long and add a touch of beauty to your home."
+	},
+	"date": "2024-06-16",
+	"tags": {
+		"ar": ["طاولة طعام", "أثاث", "غرفة طعام"],
+		"en": ["Dining Table", "Furniture", "Dining Room"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم داخلي"],
+		"en": ["Furniture", "Interior Design"]
+	},
+	"comments": 5
+}

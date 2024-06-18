@@ -1,0 +1,22 @@
+{
+	"_id": "014660005",
+	"image": "/assist/images/blog-5.jpg",
+	"title": {
+		"ar": "الأناقة والوظيفة: اختيار الطاولة الجانبية المثالية",
+		"en": "Elegance and Function: Choosing the Perfect Coffee Table"
+	},
+	"content": {
+		"ar": "الطاولة الجانبية تعتبر من القطع الهامة في غرفة الجلوس، فهي تضيف لمسة من الأناقة وتوفر مساحة إضافية لتضع عليها مشروباتك وكتبك.",
+		"en": "The coffee table is an important piece in the living room, adding a touch of elegance and providing extra space for your drinks and books."
+	},
+	"date": "2024-06-19",
+	"tags": {
+		"ar": ["طاولة جانبية", "أثاث", "غرفة جلوس"],
+		"en": ["Side Table", "Furniture", "Living Room"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم داخلي"],
+		"en": ["Furniture", "Interior Design"]
+	},
+	"comments": 13
+}

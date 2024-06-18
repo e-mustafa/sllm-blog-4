@@ -1,0 +1,22 @@
+{
+	"_id": "014660003",
+	"image": "/assist/images/blog-3.jpg",
+	"title": {
+		"ar": "نوم هنيء: كيف تختار السرير المثالي لغرفة نومك",
+		"en": "Sweet Dreams: How to Choose the Perfect Bed for Your Bedroom"
+	},
+	"content": {
+		"ar": "اختيار السرير المناسب يلعب دوراً كبيراً في جودة نومك، لذا تأكد من اختيار سرير مريح وعملي يلبي احتياجاتك الشخصية.",
+		"en": "Choosing the right bed plays a significant role in the quality of your sleep, so make sure to choose a comfortable and practical bed that meets your personal needs."
+	},
+	"date": "2024-06-17",
+	"tags": {
+		"ar": ["سرير", "أثاث", "غرفة نوم"],
+		"en": ["Bed", "Furniture", "Bedroom"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم داخلي"],
+		"en": ["Furniture", "Interior Design"]
+	},
+	"comments": 1
+}

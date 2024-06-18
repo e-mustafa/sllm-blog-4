@@ -1,0 +1,22 @@
+{
+	"_id": "014660012",
+	"image": "/assist/images/blog-5.jpg",
+	"title": {
+		"ar": "استمتع بالهواء الطلق: كيف تختار الأثاث الخارجي المثالي",
+		"en": "Enjoy the Outdoors: How to Choose the Perfect Outdoor Furniture"
+	},
+	"content": {
+		"ar": "الأثاث الخارجي يجب أن يكون متيناً ومقاوماً للعوامل الجوية لضمان استمراريته وجماله لفترة طويلة، اختر أثاثاً يوفر الراحة والجمال لحديقتك.",
+		"en": "Outdoor furniture should be durable and weather-resistant to ensure its longevity and beauty. Choose furniture that provides comfort and beauty to your garden."
+	},
+	"date": "2024-06-26",
+	"tags": {
+		"ar": ["أثاث خارجي", "أثاث", "حديقة"],
+		"en": ["Outdoor Furniture", "Furniture", "Garden"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم خارجي"],
+		"en": ["Furniture", "Exterior Design"]
+	},
+	"comments": 952
+}

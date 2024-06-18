@@ -1,0 +1,42 @@
+{
+	"HomePage": {
+		"title": "مدونة سلم",
+		"description": "مرحبا بكم في مدونتنا- Mustafa Ahmed -task",
+		"siteWelcome": "مرحبا بكم في المدونه",
+		"comment": "تعليق",
+		"comments": "تعليقات",
+		"categories": "فئات",
+		"tags": "العلامات",
+		"language": "اللغة",
+		"search-placeholder": "بحث...",
+		"showing": "يتم عرض",
+		"of": "من",
+		"items": "مقالات",
+		"next": "التالي",
+		"previous": "السابق",
+		"no-blogs": "لا يوجد مقالات",
+		"no-categories": "No categories found",
+		"no-tags": "No tags found",
+		"no-comments": "No comments found",
+		"no-search-result": "لا يوجد نتائج لعرضها",
+		"read-more": "قراءة المزيد",
+		"posted-by": "بواسطة",
+		"on": "on",
+		"items-per-page": "عدد المقالات في الصفحة",
+		"back-home": "العودة للمقالات",
+		"blog-language": "لغة المقالة",
+		"published-date": "تاريخ النشر"
+	},
+
+	"NotFoundPage": {
+		"title": "عذا هذه الصفحة غير موجوده",
+		"description": "عذرا, لم نجد الصفحة التي طلبتها .",
+		"back-to-home": "العودة للصفحة الرئيسية"
+	},
+	"Navigation": {
+		"home": "Beranda"
+	},
+	"Footer": {
+		"copyright": "جميع الحقوق محفوظة تم إنشاؤها وتطويرها بواسطة"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"_id": "014660015",
+	"image": "/assist/images/blog-6.jpg",
+	"title": {
+		"ar": "لمسة من الأناقة: اختيار المرآة المثالية لمنزلك",
+		"en": "A Touch of Elegance: Choosing the Perfect Mirror for Your Home"
+	},
+	"content": {
+		"ar": "المرآة تضيف لمسة من الأناقة والاتساع لأي غرفة، اختر مرآة بتصميم يناسب ديكور منزلك ويعزز من جمال الغرفة.",
+		"en": "Mirrors add a touch of elegance and spaciousness to any room. Choose a mirror with a design that matches your home decor and enhances the room's beauty."
+	},
+	"date": "2024-06-29",
+	"tags": {
+		"ar": ["مرآة", "أثاث", "ديكور"],
+		"en": ["Mirror", "Furniture", "Decor"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم داخلي"],
+		"en": ["Furniture", "Interior Design"]
+	},
+	"comments": 45
+}

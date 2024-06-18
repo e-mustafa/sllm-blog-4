@@ -1,0 +1,42 @@
+{
+	"HomePage": {
+		"title": "SLLM Blogs",
+		"description": "Welcome To Our blog Site- Mustafa Ahmed -task",
+		"siteWelcome": "welcome To our Blog",
+		"comment": "comment",
+		"comments": "comments",
+		"categories": "categories",
+		"tags": "tags",
+		"language": "Language",
+		"search-placeholder": "Search...",
+		"showing": "Showing",
+		"of": "of",
+		"items": "blogs",
+		"next": "Next",
+		"previous": "Previous",
+		"no-blogs": "No blogs found",
+		"no-categories": "No categories found",
+		"no-tags": "No tags found",
+		"no-comments": "No comments found",
+		"no-search-result": "No search result found",
+		"read-more": "Read more",
+		"posted-by": "Posted by",
+		"on": "on",
+		"items-per-page": "Items per page",
+		"back-home": "Back To posts",
+		"blog-language": "Blog Language",
+		"published-date": "Published Date"
+	},
+
+	"NotFoundPage": {
+		"title": "Page Not Found",
+		"description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!",
+		"back-to-home": "Go back home"
+	},
+	"Navigation": {
+		"home": "Home"
+	},
+	"Footer": {
+		"copyright": "Copyright Created and developed by"
+	}
+}

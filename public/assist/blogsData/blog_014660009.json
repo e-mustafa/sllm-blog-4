@@ -1,0 +1,22 @@
+{
+	"_id": "014660009",
+	"image": "/assist/images/blog-9.jpg",
+	"title": {
+		"ar": "بيئة عمل مثالية: كيف تختار المكتب المثالي",
+		"en": "Perfect Work Environment: How to Choose the Ideal Desk"
+	},
+	"content": {
+		"ar": "اختيار المكتب المثالي يلعب دوراً كبيراً في تحسين إنتاجيتك وراحتك أثناء العمل، لذا تأكد من اختيار مكتب يوفر لك المساحة والراحة التي تحتاجها.",
+		"en": "Choosing the ideal desk plays a significant role in improving your productivity and comfort while working, so make sure to choose a desk that provides you with the space and comfort you need."
+	},
+	"date": "2024-06-23",
+	"tags": {
+		"ar": ["مكتب", "أثاث", "مكتب منزلي"],
+		"en": ["Desk", "Furniture", "Home Office"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم داخلي"],
+		"en": ["Furniture", "Interior Design"]
+	},
+	"comments": 147
+}

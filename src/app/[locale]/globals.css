@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img-fit {
+	object-fit: cover;
+	min-width: 100%;
+	max-width: 100%;
+	width: '100%';
+	height: auto;
+	min-height: 100%;
+	max-height: 100%;
+}

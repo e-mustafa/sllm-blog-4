@@ -1,0 +1,22 @@
+{
+	"_id": "014660001",
+	"image": "/assist/images/blog-1.jpg",
+	"title": {
+		"ar": "الراحة الفاخرة: الأريكة المثالية لمنزلك",
+		"en": "Luxurious Comfort: The Perfect Sofa for Your Home"
+	},
+	"content": {
+		"ar": "تعتبر الأريكة أحد أهم قطع الأثاث في غرفة الجلوس، لذا من الضروري اختيار أريكة مريحة وفاخرة لتناسب ذوقك واحتياجاتك.",
+		"en": "The sofa is one of the most important pieces of furniture in the living room, so it is essential to choose a comfortable and luxurious sofa that suits your taste and needs."
+	},
+	"date": "2024-06-15",
+	"tags": {
+		"ar": ["أريكة", "أثاث", "غرفة جلوس"],
+		"en": ["Sofa", "Furniture", "Living Room"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم داخلي"],
+		"en": ["Furniture", "Interior Design"]
+	},
+	"comments": 3
+}

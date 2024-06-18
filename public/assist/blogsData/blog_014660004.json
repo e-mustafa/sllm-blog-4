@@ -1,0 +1,22 @@
+{
+	"_id": "014660004",
+	"image": "/assist/images/blog-4.jpg",
+	"title": {
+		"ar": "تنظيم مثالي: كيف تختار خزانة الملابس المثالية",
+		"en": "Perfect Organization: How to Choose the Ideal Wardrobe"
+	},
+	"content": {
+		"ar": "خزانة الملابس هي جزء أساسي من غرفة النوم، لذا يجب أن تكون عملية وواسعة بما يكفي لتستوعب كل ملابسك.",
+		"en": "The wardrobe is an essential part of the bedroom, so it should be practical and spacious enough to accommodate all your clothes."
+	},
+	"date": "2024-06-18",
+	"tags": {
+		"ar": ["خزانة", "أثاث", "غرفة نوم"],
+		"en": ["Wardrobe", "Furniture", "Bedroom"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم داخلي"],
+		"en": ["Furniture", "Interior Design"]
+	},
+	"comments": 31
+}

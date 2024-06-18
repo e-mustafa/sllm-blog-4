@@ -1,0 +1,354 @@
+[
+	{
+		"_id": "014660001",
+		"image": "/assist/images/blog-1.jpg",
+		"title": {
+			"ar": "الراحة الفاخرة: الأريكة المثالية لمنزلك",
+			"en": "Luxurious Comfort: The Perfect Sofa for Your Home"
+		},
+		"content": {
+			"ar": "تعتبر الأريكة أحد أهم قطع الأثاث في غرفة الجلوس، لذا من الضروري اختيار أريكة مريحة وفاخرة لتناسب ذوقك واحتياجاتك.",
+			"en": "The sofa is one of the most important pieces of furniture in the living room, so it is essential to choose a comfortable and luxurious sofa that suits your taste and needs."
+		},
+		"date": "2024-06-15",
+		"tags": {
+			"ar": ["أريكة", "أثاث", "غرفة جلوس"],
+			"en": ["Sofa", "Furniture", "Living Room"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 0
+	},
+	{
+		"_id": "014660002",
+		"image": "/assist/images/blog-2.jpg",
+		"title": {
+			"ar": "جمال وأناقة: اختيار طاولة الطعام المثالية",
+			"en": "Beauty and Elegance: Choosing the Perfect Dining Table"
+		},
+		"content": {
+			"ar": "طاولة الطعام هي مكان تجمع العائلة والأصدقاء، لذا يجب أن تكون أنيقة ومتينة لتدوم طويلاً وتضيف لمسة جمال إلى منزلك.",
+			"en": "The dining table is a gathering place for family and friends, so it should be elegant and durable to last long and add a touch of beauty to your home."
+		},
+		"date": "2024-06-16",
+		"tags": {
+			"ar": ["طاولة طعام", "أثاث", "غرفة طعام"],
+			"en": ["Dining Table", "Furniture", "Dining Room"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 5
+	},
+	{
+		"_id": "014660003",
+		"image": "/assist/images/blog-3.jpg",
+		"title": {
+			"ar": "نوم هنيء: كيف تختار السرير المثالي لغرفة نومك",
+			"en": "Sweet Dreams: How to Choose the Perfect Bed for Your Bedroom"
+		},
+		"content": {
+			"ar": "اختيار السرير المناسب يلعب دوراً كبيراً في جودة نومك، لذا تأكد من اختيار سرير مريح وعملي يلبي احتياجاتك الشخصية.",
+			"en": "Choosing the right bed plays a significant role in the quality of your sleep, so make sure to choose a comfortable and practical bed that meets your personal needs."
+		},
+		"date": "2024-06-17",
+		"tags": {
+			"ar": ["سرير", "أثاث", "غرفة نوم"],
+			"en": ["Bed", "Furniture", "Bedroom"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 1
+	},
+	{
+		"_id": "014660004",
+		"image": "/assist/images/blog-4.jpg",
+		"title": {
+			"ar": "تنظيم مثالي: كيف تختار خزانة الملابس المثالية",
+			"en": "Perfect Organization: How to Choose the Ideal Wardrobe"
+		},
+		"content": {
+			"ar": "خزانة الملابس هي جزء أساسي من غرفة النوم، لذا يجب أن تكون عملية وواسعة بما يكفي لتستوعب كل ملابسك.",
+			"en": "The wardrobe is an essential part of the bedroom, so it should be practical and spacious enough to accommodate all your clothes."
+		},
+		"date": "2024-06-18",
+		"tags": {
+			"ar": ["خزانة", "أثاث", "غرفة نوم"],
+			"en": ["Wardrobe", "Furniture", "Bedroom"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 31
+	},
+	{
+		"_id": "014660005",
+		"image": "/assist/images/blog-5.jpg",
+		"title": {
+			"ar": "الأناقة والوظيفة: اختيار الطاولة الجانبية المثالية",
+			"en": "Elegance and Function: Choosing the Perfect Coffee Table"
+		},
+		"content": {
+			"ar": "الطاولة الجانبية تعتبر من القطع الهامة في غرفة الجلوس، فهي تضيف لمسة من الأناقة وتوفر مساحة إضافية لتضع عليها مشروباتك وكتبك.",
+			"en": "The coffee table is an important piece in the living room, adding a touch of elegance and providing extra space for your drinks and books."
+		},
+		"date": "2024-06-19",
+		"tags": {
+			"ar": ["طاولة جانبية", "أثاث", "غرفة جلوس"],
+			"en": ["Side Table", "Furniture", "Living Room"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 13
+	},
+	{
+		"_id": "014660006",
+		"image": "/assist/images/blog-6.jpg",
+		"title": {
+			"ar": "عرض أنيق: كيف تختار حامل التلفزيون المثالي",
+			"en": "Stylish Display: How to Choose the Perfect TV Stand"
+		},
+		"content": {
+			"ar": "حامل التلفزيون يعتبر قطعة أساسية في غرفة الجلوس، يجب أن يكون أنيقاً ومتناسقاً مع باقي الأثاث ليعطي مظهراً جذاباً للغرفة.",
+			"en": "The TV stand is a crucial piece in the living room. It should be stylish and match the rest of the furniture to give the room an attractive look."
+		},
+		"date": "2024-06-20",
+		"tags": {
+			"ar": ["حامل تلفزيون", "أثاث", "غرفة جلوس"],
+			"en": ["TV Stand", "Furniture", "Living Room"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 10
+	},
+	{
+		"_id": "014660007",
+		"image": "/assist/images/blog-7.jpg",
+		"title": {
+			"ar": "لمسة ثقافية: كيف تختار المكتبة المنزلية المثالية",
+			"en": "Cultural Touch: How to Choose the Perfect Home Bookshelf"
+		},
+		"content": {
+			"ar": "المكتبة المنزلية تضيف لمسة من الثقافة والجمال إلى غرفة المعيشة أو المكتب المنزلي، تأكد من اختيار مكتبة تتناسب مع احتياجاتك ومساحتك.",
+			"en": "A home bookshelf adds a touch of culture and beauty to the living room or home office. Make sure to choose a bookshelf that suits your needs and space."
+		},
+		"date": "2024-06-21",
+		"tags": {
+			"ar": ["مكتبة", "أثاث", "غرفة معيشة"],
+			"en": ["Bookshelf", "Furniture", "Living Room"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 8
+	},
+	{
+		"_id": "014660008",
+		"image": "/assist/images/blog-8.jpg",
+		"title": {
+			"ar": "راحة واستجمام: اختيار الكرسي المثالي لغرفة المعيشة",
+			"en": "Comfort and Relaxation: Choosing the Perfect Armchair for the Living Room"
+		},
+		"content": {
+			"ar": "الكرسي يعتبر جزءاً مهماً من الأثاث في غرفة المعيشة، يجب أن يكون مريحاً وأنيقاً لتتمكن من الاستمتاع بوقتك في الغرفة.",
+			"en": "The armchair is an important part of the furniture in the living room. It should be comfortable and stylish so you can enjoy your time in the room."
+		},
+		"date": "2024-06-22",
+		"tags": {
+			"ar": ["كرسي", "أثاث", "غرفة معيشة"],
+			"en": ["Armchair", "Furniture", "Living Room"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 332
+	},
+	{
+		"_id": "014660009",
+		"image": "/assist/images/blog-9.jpg",
+		"title": {
+			"ar": "بيئة عمل مثالية: كيف تختار المكتب المثالي",
+			"en": "Perfect Work Environment: How to Choose the Ideal Desk"
+		},
+		"content": {
+			"ar": "اختيار المكتب المثالي يلعب دوراً كبيراً في تحسين إنتاجيتك وراحتك أثناء العمل، لذا تأكد من اختيار مكتب يوفر لك المساحة والراحة التي تحتاجها.",
+			"en": "Choosing the ideal desk plays a significant role in improving your productivity and comfort while working, so make sure to choose a desk that provides you with the space and comfort you need."
+		},
+		"date": "2024-06-23",
+		"tags": {
+			"ar": ["مكتب", "أثاث", "مكتب منزلي"],
+			"en": ["Desk", "Furniture", "Home Office"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 147
+	},
+	{
+		"_id": "014660010",
+		"image": "/assist/images/blog-1.jpg",
+		"title": {
+			"ar": "أناقة وجمال: كيف تختار طاولة الزينة المثالية",
+			"en": "Elegance and Beauty: How to Choose the Perfect Dressing Table"
+		},
+		"content": {
+			"ar": "طاولة الزينة تضيف لمسة من الأناقة والجمال إلى غرفة النوم، يجب أن تكون عملية وتحتوي على مساحات تخزين كافية لتلبية احتياجاتك.",
+			"en": "A dressing table adds a touch of elegance and beauty to the bedroom. It should be practical and have enough storage spaces to meet your needs."
+		},
+		"date": "2024-06-24",
+		"tags": {
+			"ar": ["طاولة زينة", "أثاث", "غرفة نوم"],
+			"en": ["Dressing Table", "Furniture", "Bedroom"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 9
+	},
+	{
+		"_id": "014660011",
+		"image": "/assist/images/blog-3.jpg",
+		"title": {
+			"ar": "راحة وأمان: كيف تختار سرير الأطفال المثالي",
+			"en": "Comfort and Safety: How to Choose the Perfect Kids Bed"
+		},
+		"content": {
+			"ar": "سرير الأطفال يجب أن يكون مريحاً وآمناً ليضمن لطفلك نوماً هنيئاً وصحياً، تأكد من اختيار سرير يلبي كل معايير السلامة والجودة.",
+			"en": "A kids bed should be comfortable and safe to ensure your child has a good and healthy sleep. Make sure to choose a bed that meets all safety and quality standards."
+		},
+		"date": "2024-06-25",
+		"tags": {
+			"ar": ["سرير أطفال", "أثاث", "غرفة أطفال"],
+			"en": ["Kids Bed", "Furniture", "Kids Room"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 24
+	},
+	{
+		"_id": "014660012",
+		"image": "/assist/images/blog-5.jpg",
+		"title": {
+			"ar": "استمتع بالهواء الطلق: كيف تختار الأثاث الخارجي المثالي",
+			"en": "Enjoy the Outdoors: How to Choose the Perfect Outdoor Furniture"
+		},
+		"content": {
+			"ar": "الأثاث الخارجي يجب أن يكون متيناً ومقاوماً للعوامل الجوية لضمان استمراريته وجماله لفترة طويلة، اختر أثاثاً يوفر الراحة والجمال لحديقتك.",
+			"en": "Outdoor furniture should be durable and weather-resistant to ensure its longevity and beauty. Choose furniture that provides comfort and beauty to your garden."
+		},
+		"date": "2024-06-26",
+		"tags": {
+			"ar": ["أثاث خارجي", "أثاث", "حديقة"],
+			"en": ["Outdoor Furniture", "Furniture", "Garden"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم خارجي"],
+			"en": ["Furniture", "Exterior Design"]
+		},
+		"comments": 952
+	},
+	{
+		"_id": "014660013",
+		"image": "/assist/images/blog-8.jpg",
+		"title": {
+			"ar": "دفء وأناقة: اختيار السجاد المثالي لمنزلك",
+			"en": "Warmth and Elegance: Choosing the Perfect Rug for Your Home"
+		},
+		"content": {
+			"ar": "السجاد يضيف دفء وأناقة لأي غرفة في المنزل، تأكد من اختيار سجاد ذو جودة عالية وتصميم يتناسب مع ديكور منزلك.",
+			"en": "Rugs add warmth and elegance to any room in the home. Make sure to choose high-quality rugs with designs that match your home decor."
+		},
+		"date": "2024-06-27",
+		"tags": {
+			"ar": ["سجاد", "أثاث", "ديكور"],
+			"en": ["Rug", "Furniture", "Decor"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 74
+	},
+	{
+		"_id": "014660014",
+		"image": "/assist/images/blog-2.jpg",
+		"title": {
+			"ar": "مطبخ عملي: كيف تختار جزيرة المطبخ المثالية",
+			"en": "Functional Kitchen: How to Choose the Perfect Kitchen Island"
+		},
+		"content": {
+			"ar": "جزيرة المطبخ تضيف مساحة عملية وجميلة لمطبخك، اختر جزيرة توفر مساحة تخزين إضافية وتتناسب مع تصميم مطبخك.",
+			"en": "A kitchen island adds practical and beautiful space to your kitchen. Choose an island that provides extra storage space and matches your kitchen design."
+		},
+		"date": "2024-06-28",
+		"tags": {
+			"ar": ["جزيرة مطبخ", "أثاث", "مطبخ"],
+			"en": ["Kitchen Island", "Furniture", "Kitchen"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 91
+	},
+	{
+		"_id": "014660015",
+		"image": "/assist/images/blog-6.jpg",
+		"title": {
+			"ar": "لمسة من الأناقة: اختيار المرآة المثالية لمنزلك",
+			"en": "A Touch of Elegance: Choosing the Perfect Mirror for Your Home"
+		},
+		"content": {
+			"ar": "المرآة تضيف لمسة من الأناقة والاتساع لأي غرفة، اختر مرآة بتصميم يناسب ديكور منزلك ويعزز من جمال الغرفة.",
+			"en": "Mirrors add a touch of elegance and spaciousness to any room. Choose a mirror with a design that matches your home decor and enhances the room's beauty."
+		},
+		"date": "2024-06-29",
+		"tags": {
+			"ar": ["مرآة", "أثاث", "ديكور"],
+			"en": ["Mirror", "Furniture", "Decor"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 45
+	},
+	{
+		"_id": "014660016",
+		"image": "/assist/images/blog-7.jpg",
+		"title": {
+			"ar": "إضاءة فاخرة: كيف تختار الثريا المثالية",
+			"en": "Luxurious Lighting: How to Choose the Perfect Chandelier"
+		},
+		"content": {
+			"ar": "الثريا تضيف لمسة من الفخامة والجمال لأي غرفة، تأكد من اختيار ثريا تتناسب مع حجم الغرفة وتوفر إضاءة مناسبة.",
+			"en": "A chandelier adds a touch of luxury and beauty to any room. Make sure to choose a chandelier that matches the size of the room and provides adequate lighting."
+		},
+		"date": "2024-06-30",
+		"tags": {
+			"ar": ["ثريا", "أثاث", "إضاءة"],
+			"en": ["Chandelier", "Furniture", "Lighting"]
+		},
+		"categories": {
+			"ar": ["أثاث", "تصميم داخلي"],
+			"en": ["Furniture", "Interior Design"]
+		},
+		"comments": 65
+	}
+]

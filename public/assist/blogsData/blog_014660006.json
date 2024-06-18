@@ -1,0 +1,22 @@
+{
+	"_id": "014660006",
+	"image": "/assist/images/blog-6.jpg",
+	"title": {
+		"ar": "عرض أنيق: كيف تختار حامل التلفزيون المثالي",
+		"en": "Stylish Display: How to Choose the Perfect TV Stand"
+	},
+	"content": {
+		"ar": "حامل التلفزيون يعتبر قطعة أساسية في غرفة الجلوس، يجب أن يكون أنيقاً ومتناسقاً مع باقي الأثاث ليعطي مظهراً جذاباً للغرفة.",
+		"en": "The TV stand is a crucial piece in the living room. It should be stylish and match the rest of the furniture to give the room an attractive look."
+	},
+	"date": "2024-06-20",
+	"tags": {
+		"ar": ["حامل تلفزيون", "أثاث", "غرفة جلوس"],
+		"en": ["TV Stand", "Furniture", "Living Room"]
+	},
+	"categories": {
+		"ar": ["أثاث", "تصميم داخلي"],
+		"en": ["Furniture", "Interior Design"]
+	},
+	"comments": 10
+}
